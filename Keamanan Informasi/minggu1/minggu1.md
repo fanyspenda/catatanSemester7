@@ -18,7 +18,7 @@
    menggunakan kunci berbeda
    1. protocols
    implementasi algoritma cryptography
-2. cryptanalys
+2. cryptanalysis
    membongkar pesan rahasia tanpa mengetahui kuncinya
    1. classical
    2. 

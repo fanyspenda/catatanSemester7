@@ -1,11 +1,13 @@
 # Minggu 1 - Manajemen Proyek
 
 ## Kontrak Kuliah
+
 - 3 Tugas = 40%
 - 2 Quis, UTS, UAS = 20% masing-masing
 - Quis 2 mengarah ke project
 
 # Manajemen
+
 1. Planning = rencana
 2. Organizing = Mengatur orang
 3. Staffing = Pembagian role
@@ -16,15 +18,18 @@
 8. representing = memaparkan kembali ke client
 
 # Proyek
+
 - Pekerjaan yang bersifat sementara, spesifik dan unik.
 
 ## Mekanisme proyek
+
 1. Proyek ditentukan oleh manajemen,
 2. menunjuk pimpinan proyek,
 3. pimpinan proyek monitoring proyek,
 4. pimpinan proyek melaporkan ke manajemen,
 
 ## komponen manajemen proyek
+
 1. scope,
 2. schedule,
 3. cost,
@@ -34,6 +39,7 @@ scope, schedule, cost membentuk segitiga, ditengah ada quality.
 segitiga yang bagus adalah segitiga samasisi.
 
 ## proses manajemen proyek
+
 1. initiate = diskusi antara manajer proyek dan client
    1. project charter
    2. scope
@@ -58,8 +64,9 @@ segitiga yang bagus adalah segitiga samasisi.
    3. lesson learned
 
 ## Knowledge area manajemen proyek
+
 1. project integration management = unsur proyek dikoordinasikan
-2. project scome m... = memastikan pekerjaan sesuai
+2. project scope m... = memastikan pekerjaan sesuai
 3. project time m... = menyediakan jadwal
 4. project cost m...
 5. project quality m...
@@ -67,20 +74,23 @@ segitiga yang bagus adalah segitiga samasisi.
 7. project communication m...
 8. project risk m...
 9. project procurement m...
- 
- ## masalah yg sering terjadi
- 1. buruknya perencanaan
- 2. kurang standarisasi
- 3. salah teknis progress report
- 4. buruknya pembagian kerja
- 5. kesalahan kriteria sukses
+10. project Stackholder m...
+
+## masalah yg sering terjadi
+
+1.  buruknya perencanaan
+2.  kurang standarisasi
+3.  salah teknis progress report
+4.  buruknya pembagian kerja
+5.  kesalahan kriteria sukses
 
 ## Tools Manajemen proyek
+
 - PERT Chart
 - Gantt Chart
 
 <!-- # Anggota Kelompok Proyek
-1. Aka 
+1. Aka
    1. fany
    2. Idris
 2. Arwi
@@ -110,5 +120,6 @@ segitiga yang bagus adalah segitiga samasisi.
    3.  imron -->
 
 Tugas:
+
 - tentukan proyek yang akan dikerjakan (Deskripsi, sesuai timeline(2 minggu))
 - Boleh 3 proyek, boleh 1 proyek tapi ganti-ganti manager proyek
