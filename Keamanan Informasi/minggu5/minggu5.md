@@ -12,7 +12,13 @@ Untuk kerahasiaan, integritas, dan keaslian. macam:
 6. ...
 
 ## 1. ECB
+AES dan DES => ECB
 
+Kelemahan: 
+- tidak bisa encrypt gambar,
+- 1 plaintext untuk 1 ciphertext. sehingga, dapat mudah ditebak dan dibuat *codebook*nya.
+
+metode:
 Dienkripsi secara individual
 contoh:
 plaintext: 10100010001110101001
@@ -61,10 +67,16 @@ cipher text tidak dipecah.
 ## 6 Galois Counter Mode
 
 ## Exhaustive Key Search Revisited
-
+mencari kunci dan mencocokkannya dengan ciphertext.
 brute force search. hanya ganti istilah
 
 # meningkatkan keamanan di block cipher
 
-1. Multiple Encryption
-2. key Whittening = memperpanjang kunci tanpa menyebabkan overhead
+## Double encryption
+kunci meningkat 2x lipat, tapi kemanan tidak terlalu ngaruh.
+
+## Triple encryption
+kunci meningkat 3x lipat, tapi kemanan meningkat 2x lipat.
+
+## key Whittening
+memperpanjang kunci tanpa menyebabkan overhead
